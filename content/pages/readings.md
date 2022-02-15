@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 432d081e-32d1-c65e-e45b-c0e0eb0d9890
 ---
@@ -59,7 +62,7 @@ Worster, Donald. "Water in the Age of Imperialism — and Beyond." Chapter 1 in 
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 3
 {{< tdclose >}}
 {{< tdopen >}}
@@ -96,7 +99,7 @@ Office of the High Commissioner for Human Rights. "[A Landmark Decision to Make 
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 4
 {{< tdclose >}}
 {{< tdopen >}}
@@ -142,7 +145,7 @@ Pennington, Karrie Lynn, and Thomas V. Cech. "Roles of Federal, Regional, State 
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 5
 {{< tdclose >}}
 {{< tdopen >}}
@@ -183,7 +186,7 @@ Richter, Brian D., Sandra Postel, et al. "Lost in Development's Shadow: The Down
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 6
 {{< tdclose >}}
 {{< tdopen >}}
@@ -243,7 +246,7 @@ Lustgarten, Abrahm. "[Buried Secrets: Is Natural Gas Drilling Endangering U.S. W
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 7
 {{< tdclose >}}
 {{< tdopen >}}
@@ -282,7 +285,7 @@ McConnell, Kathryn. "[Safe Water Means Better Health in Ghana, Cambodia](http://
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 8
 {{< tdclose >}}
 {{< tdopen >}}
@@ -313,7 +316,7 @@ Chen, Zhuocheng, Stephen E. Grasby, et al. "[Relation Between Climate Variabilit
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 9
 {{< tdclose >}}
 {{< tdopen >}}
@@ -407,7 +410,7 @@ European Union. "Public Participation in Relation to the Water Framework Directi
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 12
 {{< tdclose >}}
 {{< tdopen >}}
@@ -455,7 +458,7 @@ Aldaya, Maite M., and A. Y. Hoekstra. "[The Water Needed for Italians to Eat Pas
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 13
 {{< tdclose >}}
 {{< tdopen >}}
