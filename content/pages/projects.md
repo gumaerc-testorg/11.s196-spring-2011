@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a description of the term project and two extra
+  credit assignments.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
