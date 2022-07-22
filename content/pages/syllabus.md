@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides an introduction to the course, course
+  objectives, and information on meeting times, field trips, grading, and requirements.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: b53cd878-14b9-1be6-f107-30f3f0b6cb51
 ---
@@ -99,4 +103,4 @@ Quizzes that directly address the readings of any given class session will be gi
 
 ### Term project
 
-Information on the term project and related extra credit assignments can be found in the [Projects]({{< baseurl >}}/pages/projects) section of the course.
+Information on the term project and related extra credit assignments can be found in the {{% resource_link ddd68a4d-3b99-0aba-92e2-11a8878c6da1 "Projects" %}} section of the course.

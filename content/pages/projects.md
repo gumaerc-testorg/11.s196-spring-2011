@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains a description of the term project and two extra
+  credit assignments.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: ddd68a4d-3b99-0aba-92e2-11a8878c6da1
 ---
